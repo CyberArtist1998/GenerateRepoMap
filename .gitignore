@@ -1,0 +1,23 @@
+# Python bytecode from running the tools
+__pycache__/
+*.py[cod]
+
+# Editor / IDE
+.idea/
+.vscode/
+
+# OS noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Tool output written into TARGET repos, never into this one.
+# Listed defensively in case a tool is ever run with this folder as the target.
+.agent/
+
+# NOTE: bin/repo-orient.sh.bak is deliberately TRACKED.
+# It was the only rollback for repo-orient.sh before this repo had git.
+# It stays until the fixed version has been exercised on several repos.
+
+# Release archives built from this repo
+*.zip

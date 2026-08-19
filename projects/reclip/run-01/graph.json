@@ -1,0 +1,84 @@
+{
+  "root": "D:\\MyWorld-Sync\\012-Utility\\Reclip",
+  "git_sha": "297b79d",
+  "git_coverage": 0.83,
+  "git_tracked_in_graph": 5,
+  "ignored_patterns": [],
+  "file_count": 6,
+  "edge_count": 0,
+  "edge_kinds": {},
+  "core_cut": 2,
+  "records": [
+    {
+      "path": "app/app.py",
+      "in": 0,
+      "out": 0,
+      "churn": 0,
+      "role": "ENTRY",
+      "dir": "app"
+    },
+    {
+      "path": "install.js",
+      "in": 0,
+      "out": 0,
+      "churn": 1,
+      "role": "ENTRY",
+      "dir": "(root)"
+    },
+    {
+      "path": "pinokio.js",
+      "in": 0,
+      "out": 0,
+      "churn": 1,
+      "role": "ENTRY",
+      "dir": "(root)"
+    },
+    {
+      "path": "reset.js",
+      "in": 0,
+      "out": 0,
+      "churn": 1,
+      "role": "ENTRY",
+      "dir": "(root)"
+    },
+    {
+      "path": "start.js",
+      "in": 0,
+      "out": 0,
+      "churn": 1,
+      "role": "ENTRY",
+      "dir": "(root)"
+    },
+    {
+      "path": "update.js",
+      "in": 0,
+      "out": 0,
+      "churn": 1,
+      "role": "ENTRY",
+      "dir": "(root)"
+    }
+  ],
+  "clusters": [
+    {
+      "name": "(root)",
+      "files": 5,
+      "internal_edges": 0,
+      "external_edges": 0,
+      "cohesion": 0.0
+    },
+    {
+      "name": "app",
+      "files": 1,
+      "internal_edges": 0,
+      "external_edges": 0,
+      "cohesion": 0.0
+    }
+  ],
+  "misfits": [],
+  "dynamic_loader_files": [],
+  "plugin_targets": [],
+  "runtime_loaded": [],
+  "unparsed": [],
+  "cochange": [],
+  "trace_used": false
+}

@@ -1,0 +1,10 @@
+    16  D:/MyWorld-Sync/012-Utility/Reclip/pinokio.js
+     9  D:/MyWorld-Sync/012-Utility/Reclip/.agent\findings.md
+     7  D:/MyWorld-Sync/012-Utility/Reclip/terms-seed.txt
+     4  D:/MyWorld-Sync/012-Utility/Reclip/.agent\GRAPH.md
+     4  D:/MyWorld-Sync/012-Utility/Reclip/.agent\graph.json
+     4  D:/MyWorld-Sync/012-Utility/Reclip/.agent\ARCHITECTURE.md
+     2  D:/MyWorld-Sync/012-Utility/Reclip/README.md
+     1  D:/MyWorld-Sync/012-Utility/Reclip/update.js
+     1  D:/MyWorld-Sync/012-Utility/Reclip/pinokio.json
+     1  D:/MyWorld-Sync/012-Utility/Reclip/install.js

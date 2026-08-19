@@ -1,0 +1,1 @@
+git diff --quiet HEAD || git diff --name-only | grep -q README.md --repo D:/MyWorld-Sync/012-Utility/Reclip/

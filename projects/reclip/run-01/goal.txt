@@ -1,0 +1,1 @@
+Update README.md to mention Python 3.11 support --repo D:/MyWorld-Sync/012-Utility/Reclip/

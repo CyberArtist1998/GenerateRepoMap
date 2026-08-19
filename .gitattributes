@@ -1,0 +1,21 @@
+# Shell scripts MUST keep LF endings.
+# A .sh file checked out with CRLF fails in bash with an opaque
+# "bad interpreter: /usr/bin/env bash^M" error - the shebang line ends in \r.
+# This repo is developed on Windows, so without this rule git would convert
+# them on checkout and every bash tool here would break.
+*.sh text eol=lf
+
+# Python is LF-safe and cross-platform; keep it consistent for clean diffs.
+*.py text eol=lf
+
+# Docs and data: normalise on commit, leave the working copy to the platform.
+*.md text
+*.txt text
+*.json text
+*.yml text
+*.yaml text
+
+# Never touch these.
+*.png binary
+*.jpg binary
+*.ico binary

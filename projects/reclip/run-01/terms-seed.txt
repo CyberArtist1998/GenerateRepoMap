@@ -1,0 +1,7 @@
+yt-dlp
+start.js
+install.js
+update.js
+reset.js
+info.running
+info.local
